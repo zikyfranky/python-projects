@@ -3,7 +3,7 @@
 ## Python Project Ideas: Beginners Level
 
 1. [x] Mad Libs Generator
-2. [ ] Number Guessing
+2. [x] Number Guessing
 3. [ ] Text-based Adventure Game
 4. [ ] Dice Rolling Simulator
 5. [ ] Hangman
