@@ -1,6 +1,6 @@
 # Projects I worked on while learning the Python Programming Language.
 
-## Python Project Ideas: Beginners Level
+## Python Project: Beginners Level
 
 1. [x] Mad Libs Generator
 2. [x] Number Guessing
@@ -20,7 +20,7 @@
 16. [ ] Leap it!
 17. [ ] Find out, Fibonacci!
 
-## Python Project Ideas: Intermediate Level
+## Python Project: Intermediate Level
 
 18. [ ] Calculator
 19. [ ] Countdown Clock and Timer
@@ -36,7 +36,7 @@
 29. [ ] Site Connectivity Checker
 30. [ ] Directory Tree Generator
 
-## Python Project Ideas: Advanced Level
+## Python Project: Advanced Level
 
 31. [ ] Speed Typing Test
 32. [ ] Content Aggregator
