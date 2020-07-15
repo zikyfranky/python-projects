@@ -1,10 +1,10 @@
-# Projects I worked on while learning the Python Programming Language. [ ]
+# Projects I worked on while learning the Python Programming Language.
 
 ## Python Project Ideas: Beginners Level
 
 1. [x] Mad Libs Generator
 2. [x] Number Guessing
-3. [ ] Text-based Adventure Game
+3. [x] Text-based Adventure Game
 4. [ ] Dice Rolling Simulator
 5. [ ] Hangman
 6. [ ] Contact Book
