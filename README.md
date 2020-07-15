@@ -5,20 +5,20 @@
 1. [x] Mad Libs Generator
 2. [x] Number Guessing
 3. [x] Text-based Adventure Game
-4. [ ] Dice Rolling Simulator
-5. [ ] Hangman
-6. [ ] Contact Book
-7. [ ] Email Slicer
-8. [ ] Binary search algorithm
-9. [ ] Desktop Notifier App
-10. [ ] Python Story Generator
-11. [ ] YouTube video downloader
-12. [ ] Python Website Blocker
-13. [ ] Spin a Yarn
-14. [ ] What’s the word?
-15. [ ] Rock, Paper, Scissors
-16. [ ] Leap it!
-17. [ ] Find out, Fibonacci!
+<!-- 4. [ ] Dice Rolling Simulator
+4. [ ] Hangman
+5. [ ] Contact Book
+6. [ ] Email Slicer
+7. [ ] Binary search algorithm
+8. [ ] Desktop Notifier App
+9. [ ] Python Story Generator
+10. [ ] YouTube video downloader
+11. [ ] Python Website Blocker
+12. [ ] Spin a Yarn
+13. [ ] What’s the word?
+14. [ ] Rock, Paper, Scissors
+15. [ ] Leap it!
+16. [ ] Find out, Fibonacci!
 
 ## Python Project: Intermediate Level
 
@@ -49,4 +49,4 @@
 39. [ ] Expense Tracker
 40. [ ] Regex Query Tool
 41. [ ] Instagram Photo Downloader
-42. [ ] Quiz Application
+42. [ ] Quiz Application -->
